@@ -16,7 +16,7 @@
 
  수정 날짜 2019.11.11
  
- -
+ ---
  
  html title wefl :: we are all influencer로 수정
  intro.html 화면 수정 (css height:90->100vh) 헤더,푸터 살짝 깨지는거 고침
