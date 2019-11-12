@@ -11,8 +11,8 @@
 
  > 메인 로고,하단 '위플' 클릭하면 index.html로 이동
 
- >> 사용 폰트 구글 Noto Sans KR, Pinyon Script  
- >> 부트스트랩 ,fontawesome 사용
+ > 사용 폰트 구글 Noto Sans KR, Pinyon Script  
+ > 부트스트랩 ,fontawesome 사용
 
  수정 날짜 2019.11.11
  
