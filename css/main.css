@@ -152,6 +152,10 @@ section>div p,a{
     word-break:break-all;
 }
 
+
+.iconhover>button:hover {
+    background-color: #fae100e3;
+}
 .kakao-icon{
     padding-bottom:30px;
 }
